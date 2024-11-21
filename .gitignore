@@ -1,0 +1,7 @@
+# Ignorer tous les fichiers
+*
+
+# Sauf le profil PowerShell et les fichiers de configuration Git
+!.gitignore
+!Microsoft.PowerShell_profile.ps1
+!README.md
